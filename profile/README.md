@@ -25,6 +25,7 @@
    <div>
       <img src="https://img.shields.io/badge/License-Apache%20V2.0-red.svg?style=flat-square" alt="Apache V2.0">
       <a href="https://www.ycombinator.com/companies/keywords-ai"><img src="https://img.shields.io/badge/Y%20Combinator-W24-orange?style=flat-square" alt="Y Combinator W24"></a>
+      <a href="https://pypi.org/project/keywordsai-sdk/"><img src="https://img.shields.io/pypi/dm/keywordsai?style=flat-square&logo=python&logoColor=white&label=pypi%20keywordsai&color=blue" alt="Keywords AI Python package on PyPi"></a>
    </div>
 </div>
 </br>
