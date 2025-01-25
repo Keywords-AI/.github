@@ -1,2 +1,21 @@
 <div align="center"><h1>Keywords AI: Full-stack LLM engineering platform</h1></div>
 <div align="center"><h4>Observability, prompt management, and evals for LLM engineering teams.</h4></div>
+
+<div align="center">
+   <div>
+      <h3>
+         <a href="https://platform.keywordsai.co/signup">
+            <strong>Sign up</strong>
+         </a> · 
+         <a href="https://docs.keywordsai.co/get-started/overview">
+            <strong>Features</strong>
+         </a> · 
+         <a href="https://cal.com/keywordsai/demo">
+            <strong>Talk with founders</strong>
+         </a>
+      </h3>
+   </div>
+
+   <br/>
+</div>
+</br>
