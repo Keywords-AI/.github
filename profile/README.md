@@ -16,7 +16,7 @@
       </h3>
    </div>
    <div>
-      <a href="[https://docs.helicone.ai/getting-started/quick-start](https://docs.keywordsai.co/get-started/overview)"><strong>Docs</strong></a> ·
+      <a href="https://docs.keywordsai.co/get-started/overview"><strong>Docs</strong></a> ·
       <a href="https://www.keywordsai.co/blog"><strong>Blog</strong></a> · 
       <a href="https://discord.com/invite/KEanfAafQQ"><strong>Discord</strong></a> · 
       <a href="https://www.keywordsai.co/changelog"><strong>Changelog</strong></a> 
