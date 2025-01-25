@@ -15,11 +15,16 @@
          </a>
       </h3>
    </div>
-
+   <div>
+      <a href="[https://docs.helicone.ai/getting-started/quick-start](https://docs.keywordsai.co/get-started/overview)"><strong>Docs</strong></a> ·
+      <a href="https://www.keywordsai.co/blog"><strong>Blog</strong></a> · 
+      <a href="https://discord.com/invite/KEanfAafQQ"><strong>Discord</strong></a> · 
+      <a href="https://www.keywordsai.co/changelog"><strong>Changelog</strong></a> 
+   </div>
    <br/>
    <div>
       <img src="https://img.shields.io/badge/License-Apache%20V2.0-red.svg?style=flat-square" alt="Apache V2.0">
-      <a href="[https://www.ycombinator.com/companies/helicone](https://www.ycombinator.com/companies/keywords-ai)"><img src="https://img.shields.io/badge/Y%20Combinator-W24-orange?style=flat-square" alt="Y Combinator W24"></a>
+      <a href="https://www.ycombinator.com/companies/keywords-ai"><img src="https://img.shields.io/badge/Y%20Combinator-W24-orange?style=flat-square" alt="Y Combinator W24"></a>
    </div>
 </div>
 </br>
